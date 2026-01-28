@@ -9,7 +9,7 @@ The script demonstrates:
 - String formatting using f-strings
 - Multi-line strings in Python
 
-##Features
+## Features
 - Prompts the user for:
     - Name
     - Job role
